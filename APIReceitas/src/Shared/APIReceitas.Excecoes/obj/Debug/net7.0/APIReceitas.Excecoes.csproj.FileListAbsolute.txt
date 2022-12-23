@@ -1,0 +1,12 @@
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\bin\Debug\net7.0\APIReceitas.Excecoes.deps.json
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\bin\Debug\net7.0\APIReceitas.Excecoes.dll
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\bin\Debug\net7.0\APIReceitas.Excecoes.pdb
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\APIReceitas.Excecoes.csproj.AssemblyReference.cache
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\APIReceitas.Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\APIReceitas.Excecoes.AssemblyInfoInputs.cache
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\APIReceitas.Excecoes.AssemblyInfo.cs
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\APIReceitas.Excecoes.csproj.CoreCompileInputs.cache
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\APIReceitas.Excecoes.dll
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\refint\APIReceitas.Excecoes.dll
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\APIReceitas.Excecoes.pdb
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Excecoes\obj\Debug\net7.0\ref\APIReceitas.Excecoes.dll

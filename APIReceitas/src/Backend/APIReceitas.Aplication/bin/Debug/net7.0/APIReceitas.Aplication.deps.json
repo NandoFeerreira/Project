@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "APIReceitas.Aplication/1.0.0": {
+        "dependencies": {
+          "APIReceitas.Comunicacao": "1.0.0",
+          "APIReceitas.Excecoes": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "APIReceitas.Aplication.dll": {}
+        }
+      },
+      "APIReceitas.Comunicacao/1.0.0": {
+        "runtime": {
+          "APIReceitas.Comunicacao.dll": {}
+        }
+      },
+      "APIReceitas.Excecoes/1.0.0": {
+        "runtime": {
+          "APIReceitas.Excecoes.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "runtime": {
+          "Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APIReceitas.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APIReceitas.Comunicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APIReceitas.Excecoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

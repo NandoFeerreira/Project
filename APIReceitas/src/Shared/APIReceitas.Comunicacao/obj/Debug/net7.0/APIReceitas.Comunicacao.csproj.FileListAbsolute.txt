@@ -1,0 +1,12 @@
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\bin\Debug\net7.0\APIReceitas.Comunicacao.deps.json
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\bin\Debug\net7.0\APIReceitas.Comunicacao.dll
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\bin\Debug\net7.0\APIReceitas.Comunicacao.pdb
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\APIReceitas.Comunicacao.csproj.AssemblyReference.cache
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\APIReceitas.Comunicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\APIReceitas.Comunicacao.AssemblyInfoInputs.cache
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\APIReceitas.Comunicacao.AssemblyInfo.cs
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\APIReceitas.Comunicacao.csproj.CoreCompileInputs.cache
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\APIReceitas.Comunicacao.dll
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\refint\APIReceitas.Comunicacao.dll
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\APIReceitas.Comunicacao.pdb
+C:\Projetos\Project\APIReceitas\src\Shared\APIReceitas.Comunicacao\obj\Debug\net7.0\ref\APIReceitas.Comunicacao.dll
