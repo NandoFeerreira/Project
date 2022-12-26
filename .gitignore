@@ -198,3 +198,6 @@ coverage.opencover.xml
 /APIReceitas/src/Backend/APIReceitas.Aplication/obj/Debug/net7.0/APIReceitas.Aplication.csproj.AssemblyReference.cache
 /APIReceitas/src/Backend/APIReceitas.Infraestrutura/obj/Debug/net7.0/APIReceitas.Infraestrutura.csproj.AssemblyReference.cache
 /APIReceitas/src/Backend/APIReceitas.Aplication/obj/Debug/net7.0/APIReceitas.Aplication.csproj.AssemblyReference.cache
+/APIReceitas/.vs/ProjectEvaluation/apireceitas.metadata.v5.2
+/APIReceitas/.vs/ProjectEvaluation/apireceitas.projects.v5.2
+/APIReceitas/.vs/APIReceitas/v17/.suo
