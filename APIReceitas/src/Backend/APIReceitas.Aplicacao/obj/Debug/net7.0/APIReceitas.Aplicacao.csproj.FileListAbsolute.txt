@@ -39,3 +39,7 @@ C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Aplicacao\bin\Debug\net7
 C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Aplicacao\bin\Debug\net7.0\APIReceitas.Excecoes.pdb
 C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Aplicacao\bin\Debug\net7.0\APIReceitas.Aplication.pdb
 C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Aplicacao\bin\Debug\net7.0\Domain.pdb
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Aplicacao\bin\Debug\net7.0\Dapper.dll
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Aplicacao\bin\Debug\net7.0\MySqlConnector.dll
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Aplicacao\bin\Debug\net7.0\APIReceitas.Infraestrutura.dll
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Aplicacao\bin\Debug\net7.0\APIReceitas.Infraestrutura.pdb

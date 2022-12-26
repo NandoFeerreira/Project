@@ -1,0 +1,15 @@
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\bin\Debug\net7.0\APIReceitas.Infraestrutura.deps.json
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\bin\Debug\net7.0\APIReceitas.Infraestrutura.dll
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\bin\Debug\net7.0\APIReceitas.Infraestrutura.pdb
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\bin\Debug\net7.0\Domain.dll
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\bin\Debug\net7.0\Domain.pdb
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\APIReceitas.Infraestrutura.csproj.AssemblyReference.cache
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\APIReceitas.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\APIReceitas.Infraestrutura.AssemblyInfoInputs.cache
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\APIReceitas.Infraestrutura.AssemblyInfo.cs
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\APIReceitas.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\APIReceitas.Infraestrutura.csproj.CopyComplete
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\APIReceitas.Infraestrutura.dll
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\refint\APIReceitas.Infraestrutura.dll
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\APIReceitas.Infraestrutura.pdb
+C:\Projetos\Project\APIReceitas\src\Backend\APIReceitas.Infraestrutura\obj\Debug\net7.0\ref\APIReceitas.Infraestrutura.dll
