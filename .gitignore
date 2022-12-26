@@ -3,4 +3,5 @@
 ################################################################################
 
 /APIReceitas/.vs/APIReceitas/FileContentIndex
-/APIReceitas/.vs/APIReceitas/DesignTimeBuild/.dtbcache.v2
+/APIReceitas/src/Backend/APIReceitas.Infraestrutura/obj/Debug/net7.0/APIReceitas.Infraestrutura.csproj.AssemblyReference.cache
+/APIReceitas/src/Backend/APIReceitas.Aplication/obj/Debug/net7.0/APIReceitas.Aplication.csproj.AssemblyReference.cache
