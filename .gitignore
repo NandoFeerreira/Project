@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/APIReceitas/.vs/APIReceitas/FileContentIndex
+/APIReceitas/.vs/APIReceitas/DesignTimeBuild/.dtbcache.v2
