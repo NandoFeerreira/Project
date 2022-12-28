@@ -18,4 +18,11 @@ public static  class RepositorioExtension
         return conexao;
     }
 
+    public static string GetConexaoCompleta(this IConfiguration configurationManaeger)
+    {
+        var nomeDatabase = configurationManaeger.GetNomeDatabase();
+        var conexao = configurationManaeger.GetConextionString();
+
+        return $"{conexao}Database={nomeDatabase}";
+    }
 }
